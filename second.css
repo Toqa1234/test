@@ -1,0 +1,62 @@
+.parent{
+    width: 100vw;
+    height:100px ;
+    margin:auto;
+    background-color: #000000;
+
+}
+
+.child1 img{
+    width: 100px;
+    height: 100px;
+}
+.child{
+    display: inline-block;
+  
+    color: #ffffff;
+}
+.s{
+   float:right;
+   font-size: 40px;
+   padding: 20px 30px;
+}
+.child2{
+   color: #F25123;
+}
+.child3{
+    color: #01A3F1;
+}
+.child4{
+    color: #ffffff;
+}
+.child5{
+    color: #7FBA00;
+}
+.secparent{
+   display: inline-block;
+    width: 100vw;
+    height: 550px;
+    margin: 0px;
+    background-image: url(sailboat.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.secchild2{
+    text-align: center;
+      position: relative;
+      top: 100px;
+      font-size: 40px;
+
+}
+p{
+    font-size: larger;
+}
+button{
+    font-size: 40px;
+    border-radius: 50px;
+    border: #000000 solid 5px;
+}
+
+
+
